@@ -1,0 +1,29 @@
+{
+  "name": "fastback",
+  "version": "1.0.0",
+  "description": "fast go,fast back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joewp/fastback.git"
+  },
+  "keywords": [
+    "nodejs",
+    "team",
+    "report",
+    "restful",
+    "restify"
+  ],
+  "author": "joe wang",
+  "license": "ISC",
+"dependencies": {
+    "restify": "^3.0.1"
+},
+  "bugs": {
+    "url": "https://github.com/joewp/fastback/issues"
+  },
+  "homepage": "https://github.com/joewp/fastback#readme"
+}
