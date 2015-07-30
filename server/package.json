@@ -19,9 +19,10 @@
   ],
   "author": "joe wang",
   "license": "ISC",
-"dependencies": {
+  "dependencies": {
+    "node-restify-validation": "^1.0.4",
     "restify": "^3.0.1"
-},
+  },
   "bugs": {
     "url": "https://github.com/joewp/fastback/issues"
   },
